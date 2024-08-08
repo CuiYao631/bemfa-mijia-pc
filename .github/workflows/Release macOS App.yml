@@ -94,7 +94,7 @@ jobs:
           ./create-dmg/create-dmg \
             --no-internet-enable \
             --volname "BemfaZhilian Installer" \
-            --volicon "bin/DevMate.app/Contents/Resources/iconfile.icns" \
+            --volicon "bin/BemfaZhilian.app/Contents/Resources/iconfile.icns" \
             --background "dmg/background.tiff" \
             --text-size 12 \
             --window-pos 400 400 \
